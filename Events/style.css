@@ -1,0 +1,19 @@
+/* div {
+    height: 100px;
+    width: 100px;
+    color: darkcyan;
+    background-color: blanchedalmond;
+    text-align: center;
+    border: 1px solid black;
+} */
+
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}

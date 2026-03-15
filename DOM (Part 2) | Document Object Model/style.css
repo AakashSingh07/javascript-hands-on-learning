@@ -1,0 +1,17 @@
+/* #box {
+    height : 150px;
+    width: 100px;
+    background-color: aqua;
+    border: 1px solid black;
+    color: rgb(20, 37, 52);
+} */
+
+.content {
+    color : red;
+
+}
+
+.newClass {
+    background-color : rgb(227, 81, 81);
+    
+}
